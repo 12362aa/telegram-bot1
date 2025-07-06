@@ -1,0 +1,20 @@
+{
+  "name": "tele-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot using node-telegram-bot-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["telegram", "bot", "node"],
+  "author": "Gojo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "scrape-youtube": "^2.4.0",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
+
